@@ -1,4 +1,4 @@
-package Api.Data_Structure;
+package api.ds.test;
 
 import static org.junit.Assert.assertTrue;
 
