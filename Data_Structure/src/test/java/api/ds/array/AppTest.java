@@ -1,4 +1,4 @@
-package api.ds.test;
+package api.ds.array;
 
 import static org.junit.Assert.assertTrue;
 
