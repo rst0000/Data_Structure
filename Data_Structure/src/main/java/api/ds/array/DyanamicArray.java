@@ -5,5 +5,7 @@ public class DyanamicArray {
 	public DyanamicArray() {
 		// TODO Auto-generated constructor stub
 	}
+	
+	public String toString() {};
 
 }
