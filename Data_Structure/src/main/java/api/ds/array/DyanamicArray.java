@@ -7,5 +7,7 @@ public class DyanamicArray {
 	}
 	
 	public String toString() {};
+	
+	jfegijn v jifjvkrm 
 
 }
