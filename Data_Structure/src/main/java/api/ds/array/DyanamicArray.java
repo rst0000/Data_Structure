@@ -8,6 +8,9 @@ public class DyanamicArray {
 	
 	public String toString() {};
 	
-	jfegijn v jifjvkrm 
+	public int countWord(String str){
+		String []string = str.split(" ");
+		return string.length;
+	}
 
 }
