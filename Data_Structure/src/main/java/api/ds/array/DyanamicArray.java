@@ -12,5 +12,12 @@ public class DyanamicArray {
 		String []string = str.split(" ");
 		return string.length;
 	}
+	
+	
+	public int countWord(String str){
+		String []string = str.split(" ");
+		return string.length;
+	}
+	
 
 }
