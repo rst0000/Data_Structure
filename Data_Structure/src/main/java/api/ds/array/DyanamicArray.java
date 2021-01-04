@@ -6,11 +6,16 @@ public class DyanamicArray {
 		// TODO Auto-generated constructor stub
 	}
 	
-	public String toString() {};
+	public String toString() {
+		return null;
+	}
 	
 	public int countWord(String str){
 		String []string = str.split(" ");
 		return string.length;
 	}
-
+	
+	public Object getObject(String className) {
+	return className.class;
+	}
 }
